@@ -1,0 +1,10 @@
+emp_id,name,department,salary,age
+101,Arun,Sales,30000.0,25
+102,Bala,Sales,35000.0,28
+103,Chitra,HR,28000.0,26
+104,Divya,HR,,30
+105,Ezhil,IT,45000.0,32
+106,Farhan,IT,,29
+107,Gita,IT,50000.0,35
+108,Hari,Finance,40000.0,31
+108,Hari,Finance,40000.0,31
